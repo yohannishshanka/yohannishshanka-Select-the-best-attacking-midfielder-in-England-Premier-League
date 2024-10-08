@@ -1,0 +1,2 @@
+# yohannishshanka-Select-the-best-attacking-midfielder-in-England-Premier-League
+This project involved selecting the top attacking midfielders using Power BI for visualization and Python-based binary optimization with OR-Tools. Player attributes like assists, chances created, and awards were weighted, standardized, and optimized to rank players, with Kevin De Bruyne emerging as the top midfielder based on performance.
